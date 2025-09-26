@@ -1,0 +1,15 @@
+{
+  "name": "s5-academic-lab",
+  "version": "1.0.0",
+  "description": "A simple blog platform backend",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0"
+  }
+}
